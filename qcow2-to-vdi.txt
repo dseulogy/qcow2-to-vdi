@@ -1,1 +1,1 @@
-sudo qemu-img convert -O vdi /home/ds/ubuntu.qcow2 /home/ds/ubuntu.cdi
+sudo qemu-img convert -O vdi /home/ds/ubuntu.qcow2 /home/ds/ubuntu.vdi
